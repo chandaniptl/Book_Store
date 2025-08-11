@@ -44,7 +44,7 @@ Book-Store/
 
 ### 1️⃣ Clone the repository
 ```bash
-https://github.com/chandaniptl/Book_Store_Details
+https://github.com/chandaniptl/Book_Store
 ```
 
 ### 2️⃣ Navigate to project folder
